@@ -8,8 +8,9 @@
 #popup_btn{
     cursor: pointer;
     position: fixed;
-    top: 40% ;
-    left: 30%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
     background-color: #99f;
     color: #fff;
     border: none;
