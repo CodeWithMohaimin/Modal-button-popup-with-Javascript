@@ -5,8 +5,17 @@
     scroll-behavior: smooth;
     list-style: none;
 }
-#modal_btn{
+#popup_btn{
     cursor: pointer;
+    position: fixed;
+    top: 40% ;
+    left: 30%;
+    background-color: #99f;
+    color: #fff;
+    border: none;
+    padding: 9px 25px;
+    font-size: 20px;
+    border-radius: 5px;
 }
 .modal{
     position: fixed;
