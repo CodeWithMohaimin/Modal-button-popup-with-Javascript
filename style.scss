@@ -46,7 +46,6 @@
             cursor: pointer;
             font-weight: 600;
         }
-        
     }
     .text{
         padding: 10px;
@@ -64,7 +63,7 @@
     right: 0;
     bottom: 0;
     pointer-events: none;
-    background-color: rgba(0,0,0,.5);
+    background-color: rgba(116, 127, 223, 0.5);
     z-index: 1;
 }
 #overly.active{
